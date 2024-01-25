@@ -6,7 +6,6 @@
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
-- [Usage](#usage)
   
 ## Description
 
@@ -77,8 +76,3 @@ The Expense Tracker App is a web application built using the MERN stack (MongoDB
    cd ../frontend
    npm start
    ```
-
-## Usage
-
-1. Open the application in your browser: http://localhost:3000
-2. Sign up or log in to your account.
